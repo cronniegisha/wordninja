@@ -1,0 +1,59 @@
+﻿
+body {
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0;
+
+} 
+.data{ 
+    background-color: coral;
+
+}
+.photo{
+    background-color:  aqua ;
+    margin-top: -250px;
+    margin-left: 600px;
+}
+.education{ 
+    background-color: cadetblue;
+    margin-left: 300px;
+}
+.hobbies{
+    background-color: rebeccapurple;
+}
+.contact{
+    background-color: crimson;
+    margin-top: -250px;
+    margin-left: 600px;
+}
+div{
+    width: 300px;
+    height: 250px;
+    
+    
+}
+.contact:hover{ 
+    background-color: blue;
+}
+.data:hover{
+    background-color: rgb(30, 210, 39);
+}
+.education:hover{
+    background-color: orange;
+}
+.hobbies:hover{
+    background-color: darkgoldenrod;
+}
+.photo:hover{
+    background-color: darkmagenta;
+}
+a {
+    text-decoration: none;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    width: 300px;
+    height: 250px;
+}
